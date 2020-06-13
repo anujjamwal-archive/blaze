@@ -30,3 +30,16 @@
 *.exe
 *.out
 *.app
+
+# Bazel Temp
+bazel-*
+
+# IDE files
+.idea
+*.iml
+.vscode
+
+# OS Temp Files
+~*
+\#*
+.DS_Store
